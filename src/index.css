@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.hero {
+    background: linear-gradient( to right, rgba(0, 0, 0, .7),rgba(0, 0, 0, .7)),url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc9APxkj0xClmrU3PpMZglHQkx446nQPG6lA&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
